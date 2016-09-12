@@ -1,0 +1,3 @@
+http://victorroblesweb.es/2013/12/30/crud-con-codeigniter/
+http://fluentpdo.com/documentation.html
+PRUEBA

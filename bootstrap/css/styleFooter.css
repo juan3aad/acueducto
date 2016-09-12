@@ -1,0 +1,99 @@
+footer{
+	text-align: center;
+	padding: 30px;
+}
+h3{
+	background: none repeat scroll 0 0 #F3F3F3;
+	border-radius: 5px;
+	color: #5CD053;
+	font-family: sans-serif;
+	font-size: 20px;
+	padding: 5px;
+	text-shadow: 1px 1px 1px #CCCCCC;
+}
+.b-red{
+	background: #ff3738;
+
+}
+.b-blue{
+	background: #1ba1e2;
+}
+.b-orange{
+	background: #f96b1e;
+}
+.b-green{
+	background: #2bec12;
+}
+.b-purple{
+	background: #e816dc;
+}
+.b-yellow{
+	background: #f4d710;
+}
+
+#img{
+	height: 65px;
+	width: 65px;
+	border-radius: 33px;
+	margin: 5px auto;
+}
+/* Service*/
+.mini-title{
+	text-align: center;
+}
+.service-block{
+	padding: 9px;
+	text-align: center;
+	margin:	10px 5px 10px;
+	max-width: 300px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #191919;
+}
+.service-image{
+	border-radius: 45px;
+	width: 75px;
+	height: 75px;
+	margin:	0px auto;
+	transition: all 2s;
+	-moz-transition:all 2s;
+	-ms-transition:all 2s;
+	-o-transition:all 2s;
+	-webkit-transition:all 2s;
+}
+.service-image:hover{
+	padding: 3px;
+	margin: -3px auto;
+	transition: all 2s;
+	-moz-transition:all 2s;
+	-ms-transition: all 2s;
+	-o-transition: all 2s;
+	-webkit-transition: all 2s;
+}
+
+.service-image a, .service-image a:hover{
+	color:#888;
+	text-decoration: none;
+}
+
+.service-block a, .service-block a:hover{
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+}
+.service-block h4{
+	margin-top: 10px;
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.service-block p{
+	font-size: 15px;
+	padding: 12px;
+	color: #888;
+	font-style: italic;
+}
+.span3{
+	/*margin: 20px 0px 0px;*/
+	display: inline-block;
+}
+
